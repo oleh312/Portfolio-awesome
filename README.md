@@ -1,10 +1,8 @@
-# Portfolio 2023 Documentation
+# Portfolio-aewsome Documentation
 
 ## Overview
 
 This documentation provides an overview of the structure and functionality of the Portfolio 2023 GitHub project. The portfolio is a multipage site developed with Three.js, GSAP (GreenSock Animation Platform), and Barba.js. The main feature on the index.html page allows users to create random-sized spheres by clicking a button, along with the ability to change the camera angle and zoom in and out.
-
-<img width="1440" alt="Screenshot 2023-11-12 at 14 53 11" src="https://github.com/DavidJFigueroa/portfolio2023/assets/122026800/1a2622f9-2ae3-44aa-952f-17530ba1985d">
 
 
 ## Folder Structure
@@ -53,8 +51,8 @@ The project relies on the following dependencies, managed using npm:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/DavidJFigueroa/portfolio2023.git`
-2. Navigate to the project directory: `cd portfolio2023`
+1. Clone the repository: `git clone https://github.com/oleh312/Portfolio-awesome.git`
+2. Navigate to the project directory: `cd Portfolio-awesome`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and go to [http://localhost:8080](http://localhost:8080) to view the portfolio.
